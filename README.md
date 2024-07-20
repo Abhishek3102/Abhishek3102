@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋🏻, Abhishek Pandey here</h1>
+<h1 align="center">Hey👋🏻, Abhishek here</h1>
 <h3 align="center">Passionate OSINT investigator with a knack for crafting innovative Machine Learning models.</h3>
 <img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/104733166/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif">
 
