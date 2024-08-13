@@ -6,7 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek3102&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek3102" /> </p>
 
 
-- 👯 I’m looking to collaborate on **Sports Data Analytics**
+- 👯 I’m looking to collaborate on **Sports Data Analytics and Open Source Projects**
+  
+- 🤖 Currently working on **SHAP,LIME methods and Computer Vision Techniques**
 
 - 💬 Ask me about **Football, Cricket and Cyber Security**
 
