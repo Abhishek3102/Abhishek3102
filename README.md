@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Football, Cricket and Cyber Security**
 
-- My Resume : [View My Resume]([[https://github.com/yourusername/yourrepository/blob/main/resume.pdf](https://github.com/Abhishek3102/Abhishek3102/blob/main/RESUME.pdf)](https://github.com/Abhishek3102/Abhishek3102/blob/main/RESUME.pdf))
+- My Resume : [View My Resume](https://github.com/Abhishek3102/Abhishek3102/blob/main/RESUME.pdf)
 
 
 - Reach me out: **abhishekpandey7845@gmail.com**
