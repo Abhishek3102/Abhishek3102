@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Sports Data Analytics and Open Source Projects**
   
-- 🤖 Currently working on **Nextjs, Reinforcement Learning and Computer Vision Techniques**
+- 🤖 Currently working on **Nextjs, Generative Adversarial Network(GAN) and Computer Vision Techniques**
 
 - 💬 Ask me about **Football, Cricket and Cyber Security**
 
